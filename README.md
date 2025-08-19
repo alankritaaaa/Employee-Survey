@@ -1,10 +1,10 @@
 # Employee Satisfaction Analysis
 
-## 📊 Objective
+## Objective
 
 This project involves a deep dive into employee survey data to diagnose the overall health of the organization. By analyzing key satisfaction metrics, we aim to identify strengths, weaknesses, and opportunities for improving employee experience and retention. The analysis answers critical questions about overall sentiment, the distribution of satisfaction, and the relationship between different factors.
 
-## 📁 About the Dataset
+## About the Dataset
 
 The dataset consists of anonymized employee survey responses from **4,327 employees** (based on non-null counts for Job Satisfaction). The data includes three core satisfaction metrics, each scored on an ordinal scale from 1 (Low) to 4 (High):
 
@@ -12,13 +12,13 @@ The dataset consists of anonymized employee survey responses from **4,327 employ
 *   **Job Satisfaction:** Satisfaction with the role and daily tasks.
 *   **Work-Life Balance:** Perception of balance between professional and personal life.
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 *   **Database:** MySQL
 *   **IDE:** MySQL Workbench
 *   **Key Skills:** SQL Querying, Descriptive Statistics, Data Analysis, Insight Generation
 
-## 🔍 SQL Analysis & Key Queries
+## SQL Analysis & Key Queries
 
 The analysis was performed using SQL to calculate key metrics and uncover patterns. The core queries focused on:
 
@@ -28,7 +28,7 @@ The analysis was performed using SQL to calculate key metrics and uncover patter
 4.  **Identifying Critical Risk:** Finding employees deeply dissatisfied in all areas.
 5.  **Correlation Check:** Exploring the link between Environment and Job Satisfaction.
 
-## 📈 Key Insights & Conclusion
+## Key Insights & Conclusion
 
 Based on the analysis of the data, we can draw several powerful conclusions:
 
